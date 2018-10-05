@@ -3,5 +3,3 @@
 
 #contact num = 000-0000
 #E-mail : abcd1234@gmail.com
-
-#추가된 메세지 입니다.
